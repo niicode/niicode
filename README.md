@@ -1,10 +1,10 @@
-<h1 class="center">Hi 👋, I am Nii Darku  ✨niicode✨</h1> <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<h1 class="center">Hi 👋, I am Nii Darku  ✨niicode✨</h1> 
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
 - 💬 Ask me about Programming and Music
 - 😄 Interests: Music, Technology
-- 💆🏿‍♀️ Mantra: learn everyday! 
+- 😌 Mantra: learn everyday! 
 
 [![Nii Darku's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicode)](https://github.com/niicode/github-readme-stats)
 
