@@ -1,7 +1,7 @@
 <h1 class="center">Hi 👋, I am Nii Darku  ✨niicode✨</h1> 
 
 ### ABOUT ME
-- 🌱 I’m currently learning Software development
+- 🌱 I’m currently working as a Backend Engineer with SKIPPA
 - 💬 Ask me about Programming and Music
 - 😄 Interests: Music, Technology
 - 😌 Mantra: learn everyday! 
