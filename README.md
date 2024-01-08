@@ -1,9 +1,9 @@
 <h1 class="center">Hi 👋, I am Nii Darku  ✨niicode✨</h1> 
 
 ### ABOUT ME
-- 🌱 I’m currently working as a Backend Engineer with SKIPPA
+- 🌱 I’m currently working as a Software Engineer at [SkippaTrading LLC](https://skippa.com)
 - 💬 Ask me about Programming and Music
-- 😄 Interests: Music, Technology
+- 😄 Interests: Technology, Music
 - 😌 Mantra: learn everyday! 
 
 [![Nii Darku's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicode)](https://github.com/niicode/github-readme-stats)
@@ -19,4 +19,4 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"></p>
 <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.go.dev" target="_blank"></p>
 
-![Profile views](https://gpvc.arturio.dev/niicode)  
+![](https://komarev.com/ghpvc/?username=niicode) 
